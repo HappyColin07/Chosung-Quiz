@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Single+Day&display=swap');
+
+body {
+    font-family: 'Nanum Gothic', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.wrapper {
+    background-color: rgb(45, 45, 45);
+    width: 300px;
+    margin: 10px auto;
+    text-align: center;
+    border: 5px solid rgb(27, 27, 27);
+
+}
+.title {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+    font-size: 3rem;
+}
+.quiz-sentence {
+    font-size: 2rem;
+    margin: 10px 0;
+    font-weight: bold;
+}
+.score {
+    font-size: 1.2rem;
+}
+.inputFromKey {
+    width: 130px;
+    font-size: 1.4rem;
+}
+.quiz-numbering {
+    font-size: 1rem;
+}
+
+.reStartBtn {
+    background-color : rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border: 5px solid rgb(27, 27, 27);
+    font-size: 1.0rem;
+    padding: 3px;
+    width: 100px;
+    margin: 10px;
+    border-radius: 113px;
+}
+#ok-btn {
+    background-color : rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border: 5px solid rgb(27, 27, 27);
+    font-size: 1.0rem;
+    padding: 3px;
+    width: 60px;
+    margin: 10px;
+    border-radius: 113px;
+  }
+#ok-btn:hover {
+    background-color: rgb(56, 56, 56);
+    color: rgb(255, 255, 255);
+    transition: 0.5s ease;
+}
+#select {
+    background-color : rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border: 5px solid rgb(27, 27, 27);
+    font-size: 1.0rem;
+    padding: 3px;
+    width: 100px;
+    margin: 10px;
+    border-radius: 113px;
+}
+.select-link {
+    text-decoration: none;
+    color: white;
+}
+.img31 {
+    visibility: hidden;
+}
