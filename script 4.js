@@ -8,8 +8,8 @@ const quizData = [
         answer: "현무암"
     },
     {
-        quiz: "ㅍ ㅁ 암",
-        answer: "편마암"
+        quiz: "ㄱ 암",
+        answer: "규암"
     },
     {
         quiz: "ㅊ ㅁ 암",
